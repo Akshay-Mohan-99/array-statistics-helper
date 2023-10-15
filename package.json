@@ -1,0 +1,25 @@
+{
+  "name": "array-statistics-helper",
+  "version": "1.0.0",
+  "description": "A JavaScript module for calculating average, minimum, and maximum values of an array of numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["statistics", "array", "math", "utility"],
+  "author": "Akshay Mohan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/array-statistics-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/array-statistics-helper/issues"
+  },
+  "homepage": "https://github.com/yourusername/array-statistics-helper#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
