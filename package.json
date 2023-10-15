@@ -11,12 +11,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/array-statistics-helper.git"
+    "url": "https://github.com/Akshay-Mohan-99/array-statistics-helper.git" 
   },
   "bugs": {
-    "url": "https://github.com/yourusername/array-statistics-helper/issues"
+    "url": "https://github.com/Akshay-Mohan-99/array-statistics-helper/issues"
   },
-  "homepage": "https://github.com/yourusername/array-statistics-helper#readme",
+  "homepage": "https://github.com/Akshay-Mohan-99/array-statistics-helper#readme",
   "dependencies": {},
   "devDependencies": {},
   "engines": {
